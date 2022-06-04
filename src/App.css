@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.video {
+  height: 150vh;
+  background-color: pink;
+}
+
+.input {
+  height: 50px;
+  width: 90%;
+}
